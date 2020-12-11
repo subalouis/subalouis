@@ -1,13 +1,9 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b229b98-38ca-44c9-9558-42b589a8c44a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b229b98-38ca-44c9-9558-42b589a8c44a/Untitled.png)
-
 # ***UI/UX Designer on the making 🖼, a try-hard programmer👩‍💻, a Photographer📷, and an Aspiring Film Maker🎥***
 
-
+---
 
 - **🧑 He/Him**
 - **🎓 CS Student at Don Honorio Ventura State University**
-
-
 
 # **🌿 I'm trying to learn**
 
@@ -15,12 +11,11 @@
 - *🌎  Web Development*
 - *📂 Database Management and Programming*
 
+---
 
+🌐 You can Reach me on
 
--
-
-## 🌐 You can Reach me on
-https://fb.com/subalouis
-https://m.me/subalouis
-https://t.com/subalouis
-https://ig.com/louissuba
+- [Facebook](http://fb.com/subalouis)
+- [Twitter](http://twitter.com/subalouis)
+- [Instagram](http://instagram.com/louissuba)
+- [LinkedIn](http://linkedin.com/in/subalouis)
