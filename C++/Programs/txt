@@ -1,0 +1,19 @@
+cout <<"\t1.) Excutive Staff\n";
+    cout << "\t2.) Create a new Order\n"; 
+    cout << "\t3.) Summary of Orders\n";
+    cout << "\t4.) Reviews\n" ; 
+    cout << "\t=========
+    
+
+
+
+
+    /*Create a simple program that has a 
+    structure data type, pointer variable,
+     and choose between queue data type or
+      stack data type. Convert your file into pdf file.
+       Copy and paste your program and your output.
+        Duplication of outputs will be having no 
+        score in this part. *
+20 points
+*/
