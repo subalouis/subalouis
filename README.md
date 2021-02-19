@@ -6,7 +6,7 @@
 
 # 🌿 I'm trying to learn: 
 
-- *💾 Java and C++ (Guide me Pls)*
+- *💾 Java, C++, JavaScript, HTML, and CSS (Guide me Pls)*
 - *🌎  Web Development*
 - *📂 Database Management and Programming*
 
