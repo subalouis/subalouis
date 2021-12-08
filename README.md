@@ -4,9 +4,9 @@
 - **🧑 He/Him**
 - **🎓 CS Student at Don Honorio Ventura State University**
 
-# 🌿 I'm trying to learn: 
+# 🌿 
 
-- *💾 Java, C++, JavaScript, HTML, and CSS (Guide me Pls)*
+- *💾 Java, C++, JavaScript, HTML, and CSS*
 - *🌎  Web Development*
 - *📂 Database Management and Programming*
 
